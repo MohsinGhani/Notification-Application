@@ -1380,28 +1380,22 @@ class MyDocument extends next_document__WEBPACK_IMPORTED_MODULE_3___default.a {
         lineNumber: 25
       },
       __self: this
-    }, __jsx("title", {
+    }, this.props.styleTags), __jsx("body", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 26
-      },
-      __self: this
-    }, "My page"), this.props.styleTags), __jsx("body", {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 30
+        lineNumber: 28
       },
       __self: this
     }, __jsx(next_document__WEBPACK_IMPORTED_MODULE_3__["Main"], {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 31
+        lineNumber: 29
       },
       __self: this
     }), __jsx(next_document__WEBPACK_IMPORTED_MODULE_3__["NextScript"], {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 32
+        lineNumber: 30
       },
       __self: this
     })));

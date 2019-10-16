@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import {Wrapper, UnorderList, List, Image, LeftImage, UserContent, UserInfo, Title, Time} from './styledComponent'
+import {Wrapper, UnorderList, List, Image, LeftImage, UserContent, UserInfo, Title, Time} from '../components/styledComponent'
 export default function Blog() {
   const [getPosts, setPosts] = useState([
     { id: '1', image: '/profile-1.jpg', title: 'Paulo Souza ', description: 'vizualizou seu perfil', time: 'hace 15 horas' },
